@@ -1,0 +1,9 @@
+C:\Users\Eric\Dropbox\Mining Project\C#ProjectCode\MiningSirt\MiningSirt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Dropbox\Mining Project\C#ProjectCode\MiningSirt\MiningSirt\obj\x86\Debug\MainWindow.baml
+C:\Users\Eric\Dropbox\Mining Project\C#ProjectCode\MiningSirt\MiningSirt\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Eric\Dropbox\Mining Project\C#ProjectCode\MiningSirt\MiningSirt\obj\x86\Debug\App.g.cs
+C:\Users\Eric\Dropbox\Mining Project\C#ProjectCode\MiningSirt\MiningSirt\obj\x86\Debug\MiningSirt_MarkupCompile.cache
+C:\Users\Eric\Dropbox\Mining Project\C#ProjectCode\MiningSirt\MiningSirt\obj\x86\Debug\MiningSirt.g.resources
+C:\Users\Eric\Dropbox\Mining Project\C#ProjectCode\MiningSirt\MiningSirt\obj\x86\Debug\MiningSirt.Properties.Resources.resources
+C:\Users\Eric\Dropbox\Mining Project\C#ProjectCode\MiningSirt\MiningSirt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eric\Dropbox\Mining Project\C#ProjectCode\MiningSirt\MiningSirt\obj\x86\Debug\GenerateResource.write.1.tlog
